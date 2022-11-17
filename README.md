@@ -27,7 +27,7 @@
 
 🌱 **스킬 및 사용툴**
 
-`Unity3D` `C++` `Visual Studio Code` `Unity Aset`
+`Unity3D` `C#` `Visual Studio Code` `Unity Aset`
 
 ✉️ **아쉬운 점 및 발전 방안**
 
