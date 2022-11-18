@@ -46,7 +46,7 @@
 ![image05](https://user-images.githubusercontent.com/114071141/202615134-8c44b946-ce7f-44cf-abab-871e00535729.png)
 
 **BoxHunter-QA**<br>
-[깃허브 이슈](https://github.com/issues)
+[깃허브 이슈](https://github.com/LeeJunMin01/Unity_Project/issues/)
 
 
 **개발일지**<br>
