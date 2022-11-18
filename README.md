@@ -45,3 +45,6 @@
 🖌️ **UI**
 ---
 ![image05](https://user-images.githubusercontent.com/114071141/202615134-8c44b946-ce7f-44cf-abab-871e00535729.png)
+
+**개발일지**<br>
+[유니티 프로젝트 쿼터뷰 액션게임 만들기](https://blog.naver.com/dlals7777/222931103724)
